@@ -1,0 +1,22 @@
+{
+  "name": "auto-open",
+  "version": "1.0.0",
+  "description": "Opens a new web page from a button and passes a variable to the url of the web page seachbar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanMM7/auto-open.git"
+  },
+  "keywords": [
+    "Auto"
+  ],
+  "author": "Dan Malengela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanMM7/auto-open/issues"
+  },
+  "homepage": "https://github.com/DanMM7/auto-open#readme"
+}
