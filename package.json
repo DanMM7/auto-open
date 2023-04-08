@@ -1,5 +1,5 @@
 {
-  "name": "auto-open-Map",
+  "name": "auto-open-map",
   "version": "1.0.0",
   "description": "Opens a new web page from a button and passes a variable to the url of the web page seachbar.",
   "main": "index.js",
